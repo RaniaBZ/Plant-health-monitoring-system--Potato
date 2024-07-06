@@ -1,5 +1,15 @@
 # Potato Disease Classification
 
+Developed a machine learning model for potato disease classification, focusing on common diseases like early blight and late blight.
+
+Implemented MLOps for TensorFlow Serving to streamline the deployment and monitoring of the model.
+
+Built a robust backend using FastAPI, ensuring efficient and scalable API interactions.
+
+Deployed the model on Google Cloud Platform (GCP), leveraging Google Cloud Functions for serverless execution.
+
+Integrated the solution into a React Native mobile app, providing farmers with a user-friendly tool to identify diseases early and prevent economic loss.
+
 ## Setup for Python:
 
 1. Install Python ([Setup instructions](https://wiki.python.org/moin/BeginnersGuide))
